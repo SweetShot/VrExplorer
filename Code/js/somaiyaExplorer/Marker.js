@@ -4,7 +4,9 @@
 /**
  * @param target String name of the target scene to be loaded on click
  * @param imagePath String path to the image of the sprite.
+ * @param imageHighlightPath String path to the image of the sprite hover
  * @param position array containing x, y, z position of the marker
+ * @param size int size of marker
  * @param textInfo information about text to be displayed on hover
  * @return THREE.Mesh object which can be placed in scene.
  * **/
